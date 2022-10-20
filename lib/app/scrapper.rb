@@ -30,6 +30,10 @@ class Scrapper
         end
     end
 
+    def save_google
+        
+    end
+
 
 
 

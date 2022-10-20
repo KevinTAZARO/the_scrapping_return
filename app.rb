@@ -8,3 +8,4 @@ require 'app/scrapper.rb'
 #scrap = Scrapper.new.save_json
 
 #scrapsv = Scrapper.new.save_csv
+
